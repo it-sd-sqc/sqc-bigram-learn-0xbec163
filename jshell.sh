@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#foo
 # Specify the correct PATH delimiter based on platform.
 WHERE="$(uname -s)"
 DELIM=":"
